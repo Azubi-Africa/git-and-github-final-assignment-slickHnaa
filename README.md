@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Loan Prediction    |  Loan Prediction ML   | https://github.com/slickHnaa/Loan-Prediction-using-Machine-Learning.git     |
+| 2 |  Caesars Cypher Encryption           |  Encode and decode words             | https://github.com/slickHnaa/Caesars-Cypher-Encryption.git      |
+| 3 |  Movies Assignment      |  EDA for movies     | https://github.com/slickHnaa/Movies-Assignment-HNAA.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
